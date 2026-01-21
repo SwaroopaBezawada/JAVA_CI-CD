@@ -11,7 +11,7 @@ The application logic itself comes from an open‑source project (credited below
 The application code is based on the following open‑source project:
 
 Original Repository: (https://github.com/yankils/hello-world)
-Original Author / Organization: <AR SHANKAR>
+Original Author / Organization: <ARSHANKAR>
 
 I did not write the application logic from scratch. I used it as a reference so I could focus on the DevOps and cloud side of things.
 
