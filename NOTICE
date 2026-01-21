@@ -1,0 +1,8 @@
+This repository includes code adapted from:
+https://github.com/yankils/hello-world
+Copyright (c) <AR Shankar>
+
+Modifications in this repo include:
+- Java 21 modernization
+- Tomcat 9 + Docker packaging
+- CI/CD (Jenkins), Terraform ECS deployment, security scanning
